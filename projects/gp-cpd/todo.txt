@@ -1,0 +1,11 @@
+
+
+relative density estimation 코드
+http://www.ism.ac.jp/~liu/software.html
+
+
+GP-NBC
+1. master thesis
+http://acl.mit.edu/papers/Grande14_Masters.pdf
+2. original paper
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7491276
